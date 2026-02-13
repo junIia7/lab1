@@ -3,6 +3,8 @@ Version: 1.0
 Section: utils
 Priority: optional
 Architecture: amd64
-Depends: g++, cmake
-Maintainer: ggwp07303@gmail.com
-Description: C++ program matrix transformation
+Depends: libc6 (>= 2.31)
+Maintainer: Your Name <ggwp07303@gmail.com>
+Description: C++ program for matrix transformation
+ Simple matrix transformation console utility.
+ Built with C++.
