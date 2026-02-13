@@ -1,0 +1,7 @@
+Package: lab1v9
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: ggwp07303@gmail.com
+Description: C++ program matrix transformation
