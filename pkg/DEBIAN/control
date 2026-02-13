@@ -3,5 +3,6 @@ Version: 1.0
 Section: utils
 Priority: optional
 Architecture: amd64
+Depends: g++, cmake
 Maintainer: ggwp07303@gmail.com
 Description: C++ program matrix transformation
